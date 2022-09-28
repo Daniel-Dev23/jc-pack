@@ -20,6 +20,10 @@ El proyecto originalmente tiene derechos reservados del cliente, por lo que no e
 
 <br>
 
+__[Ver Imágenes De Proyecto Móvil](./app-mobile/thumbnails.md)__
+
+__[Ver Imágenes De Proyecto Web](./app-web/thumbnails.md)__
+
 ---
 
 ## __Medios de Contacto__

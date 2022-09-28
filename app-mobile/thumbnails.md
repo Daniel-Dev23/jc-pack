@@ -43,3 +43,5 @@ La aplicación Móvil hace funciones similares como los de la aplicación Web.
 </div>
 
 <br>
+
+__[Detalles de Proyecto](../README.md)__

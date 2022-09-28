@@ -30,3 +30,7 @@ Estás revisiones se suelen hacer semanalmente.
     <img src="https://res.cloudinary.com/daniel-dev23/image/upload/v1664388562/JC%20Pack/Mobile/a_yama8y.png" alt="JC Pack" width="620px">
     <img src="https://res.cloudinary.com/daniel-dev23/image/upload/v1664388562/JC%20Pack/Mobile/e_cpktpc.png" alt="JC Pack" width="620px">
 </div>
+
+<br>
+
+__[Detalles de Proyecto](../README.md)__
