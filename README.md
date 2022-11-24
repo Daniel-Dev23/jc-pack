@@ -16,13 +16,7 @@ JC Pack cuenta con un sistema web administrativo realizado en PHP bajo una arqui
 
 De igual forma, cuenta con una aplicación móvil realizada en Flutter con un backend elaborado en PHP bajo una arquitectura de API's con conexión a una base de datos de MySQL.
 
-El proyecto originalmente tiene derechos reservados del cliente, por lo que no es posible compartir código fuente, sin embargo, se pueden mostrar algunas vistas previas al respecto.
-
-<br>
-
-__[Ver Imágenes De Proyecto Móvil](./app-mobile/thumbnails.md)__
-
-__[Ver Imágenes De Proyecto Web](./app-web/thumbnails.md)__
+El proyecto originalmente tiene derechos reservados del cliente, por lo que no es posible compartir código fuente.
 
 ---
 
